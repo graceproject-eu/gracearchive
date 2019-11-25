@@ -1,0 +1,13 @@
+/wp-admin/css/forms.min.css
+/wp-admin/css/l10n.min.css
+/wp-admin/css/login.min.css
+/wp-admin/js/password-strength-meter.min.js
+/wp-admin/js/user-profile.min.js
+/wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css
+/wp-includes/css/buttons.min.css
+/wp-includes/css/dashicons.min.css
+/wp-includes/js/jquery/jquery-migrate.min.js
+/wp-includes/js/jquery/jquery.js
+/wp-includes/js/underscore.min.js
+/wp-includes/js/wp-util.min.js
+/wp-includes/js/zxcvbn-async.min.js
